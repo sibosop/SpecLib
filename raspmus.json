@@ -1,3 +1,5 @@
 {
-  "include" : ["devhosts"]
+  "defaultSoundDir" : "/media/pi/SOUND/events",
+  "include" : ["host_defaults","raspmus_hosts","improvSounds"],
+  "numMusicThreads" : 1
 }

@@ -1,5 +1,6 @@
 {
   "include" : ["nano","improvSounds"],
   "midiBackEnd" : "mido.backends.rtmidi",
-  "defaultSoundDir" : "/Users/brian/sibosopLocal/music/Music20161008/Clips/schlubFull/"
+  "defaultSoundDir" : "/Users/brian/sibosopLocal/music/Music20161008/Clips/schlubFull/",
+  "numMusicThreads" : 8
 }

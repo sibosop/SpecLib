@@ -1,18 +1,12 @@
 {
   "subnet" : "192.168.20",
   "hosts" : [
-  {
-      "isMaster": true,
-      "name": "pi100",
+    {
+      "name": "raspmus master",
       "ip": "192.168.20.105",
-      "isRaspberry" : true,
-      "fontSize" : 90,
-      "hasDisplay": true,
-      "displayType" : "Image",
-      "wantsPhrase" : false,
-      "hasVoice" : false,
-      "hasMusic" : false,
-      "hasPowerCheck" : true
+      "hasServer" : true,
+      "hasMusic" : true,
+      "hasMusicPlayer" : true
     }
   ]
 }

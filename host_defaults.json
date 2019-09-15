@@ -1,0 +1,17 @@
+{
+  "host_defaults" : 
+  {
+    "name": "default",
+    "ip": "x.x.x.x",
+    "hostType" : "raspberry",
+    "hasServer" : false,
+    "fontSize" : 90,
+    "hasDisplay": false,
+    "displayType" : "None",
+    "hasPhrase" : false,
+    "hasMusic" : false,
+    "hasPowerCheck" : false,
+    "hasMusicPlayer" : false,
+    "hasiAltar" : false
+  }
+}
