@@ -7,6 +7,12 @@
       "hasServer" : true,
       "hasMusic" : true,
       "hasMusicPlayer" : true
+    },
+    {
+      "name": "raspmus 110",
+      "ip": "192.168.20.110",
+      "hasServer" : true,
+      "hasMusic" : true
     }
   ]
 }
