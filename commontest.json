@@ -6,5 +6,6 @@
   "fontFile" : "Watchword_bold_demo.otf",
   "splashImg" : "sibcommon/splash.jpg",
   "textlineSpacing" : 20,
+  "credFile" : "/media/pi/ARCHIVE/creds.txt",
   "wordList" : ["corncob_lowercase.txt"]
 }
