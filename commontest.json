@@ -7,5 +7,6 @@
   "splashImg" : "sibcommon/splash.jpg",
   "textlineSpacing" : 20,
   "credFile" : "/media/pi/ARCHIVE/creds.txt",
+  "watchdogTimeout" : 240,
   "wordList" : ["corncob_lowercase.txt"]
 }
