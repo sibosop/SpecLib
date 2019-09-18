@@ -1,3 +1,6 @@
 {
+  "archiveDir" : "/media/pi/ARCHIVE/ArchiveImages/",
+  "tmpdir" : "/apptmp",
+  "archiveTextName" : "newText.lkp",
   "wordList" : ["corncob_lowercase.txt"]
 }
