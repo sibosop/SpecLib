@@ -1,6 +1,10 @@
 {
+  "include" : ["host_defaults","raspmus_hosts"],
   "archiveDir" : "/media/pi/ARCHIVE/ArchiveImages/",
   "tmpdir" : "/apptmp",
   "archiveTextName" : "newText.lkp",
+  "fontFile" : "Watchword_bold_demo.otf",
+  "splashImg" : "sibcommon/splash.jpg",
+  "textlineSpacing" : 20,
   "wordList" : ["corncob_lowercase.txt"]
 }
