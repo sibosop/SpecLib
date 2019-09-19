@@ -6,26 +6,26 @@
       "ip": "192.168.20.105",
       "hasServer" : true,
       "hasMusic" : true,
-      "hasiAltar" : true,
+      "hasiAltar" : false,
       "hasMusicPlayer" : true
     },
     {
       "name": "raspmus 110",
       "ip": "192.168.20.110",
-      "hasServer" : true,
-      "hasMusic" : true
+      "hasServer" : false,
+      "hasMusic" : false
     },
     {
       "name": "raspmus 113",
       "ip": "192.168.20.113",
-      "hasServer" : true,
-      "hasMusic" : true
+      "hasServer" : false,
+      "hasMusic" : false
     },
     {
       "name": "raspmus 109",
       "ip": "192.168.20.109",
-      "hasServer" : true,
-      "hasMusic" : true
+      "hasServer" : false,
+      "hasMusic" : false
     }
   ]
 }

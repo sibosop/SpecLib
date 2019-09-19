@@ -1,3 +1,28 @@
 {
-  "include" : ["defaults,host_defaults","raspmus_hosts","improvSounds"]
+	"include": ["defaults","host_defaults", "raspmus_hosts", "improvSounds"],
+	"debug": [
+		"__main__",
+		"archive",
+		"asoundConfig",
+		"display",
+		"displayHandler",
+		"googleSearch",
+		"hosts",
+		"iAltarPlayer",
+		"midiHandler",
+		"musicPlayer",
+		"phraseHandler",
+		"server",
+		"shutdown",
+		"soundFile",
+		"soundTrack",
+		"soundUtils",
+		"textSpeaker",
+		"upgrade",
+		"utils",
+		"voice",
+		"watchdog",
+		"words"
+	],
+  "noDebug" : []
 }
