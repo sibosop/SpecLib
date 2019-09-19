@@ -1,0 +1,19 @@
+{
+  "archiveDir" : "/media/pi/ARCHIVE/ArchiveImages/",
+  "archiveTextName" : "newText.lkp",
+  "credFile" : "/media/pi/ARCHIVE/creds.txt",
+  "defaultSearchType" : "Archive",
+  "defaultSoundDir" : "/media/pi/SOUND/events",
+  "displayTimeRange" : [3,8],
+  "fontFile" : "Watchword_bold_demo.otf",
+  "iAltarSleepInterval" : 30,
+  "langList" : ["en", "en-au", "en-uk"],
+  "masterVolume" : 80,
+  "numMusicThreads" : 1,
+  "splashImg" : "sibcommon/splash.jpg",
+  "textlineSpacing" : 20,
+  "tmpdir" : "/apptmp",
+  "voiceMaxVol" : 1.0,
+  "watchdogTimeout" : 240,
+  "wordList" : ["corncob_lowercase.txt"]
+}

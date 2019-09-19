@@ -12,6 +12,7 @@
     "hasMusic" : false,
     "hasPowerCheck" : false,
     "hasMusicPlayer" : false,
-    "hasiAltar" : false
+    "hasiAltar" : false,
+    "hasVoice" : false
   }
 }

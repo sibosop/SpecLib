@@ -1,6 +1,3 @@
 {
-  "defaultSoundDir" : "/media/pi/SOUND/events",
-  "include" : ["host_defaults","raspmus_hosts","improvSounds"],
-  "masterVolume" : 80,
-  "numMusicThreads" : 1
+  "include" : ["defaults,host_defaults","raspmus_hosts","improvSounds"]
 }
