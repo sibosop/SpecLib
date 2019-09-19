@@ -24,5 +24,6 @@
 		"watchdog",
 		"words"
 	],
-  "noDebug" : []
+  "noDebug" : [],
+  "musicLoop" : true
 }

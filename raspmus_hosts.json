@@ -12,20 +12,20 @@
     {
       "name": "raspmus 110",
       "ip": "192.168.20.110",
-      "hasServer" : false,
-      "hasMusic" : false
+      "hasServer" : true,
+      "hasMusic" : true
     },
     {
       "name": "raspmus 113",
       "ip": "192.168.20.113",
-      "hasServer" : false,
-      "hasMusic" : false
+      "hasServer" : true,
+      "hasMusic" : true
     },
     {
       "name": "raspmus 109",
       "ip": "192.168.20.109",
-      "hasServer" : false,
-      "hasMusic" : false
+      "hasServer" : true,
+      "hasMusic" : true
     }
   ]
 }

@@ -9,6 +9,7 @@
   "iAltarSleepInterval" : 30,
   "langList" : ["en", "en-au", "en-uk"],
   "masterVolume" : 80,
+  "musicLoop" : false,
   "numMusicThreads" : 1,
   "splashImg" : "sibcommon/splash.jpg",
   "textlineSpacing" : 20,
