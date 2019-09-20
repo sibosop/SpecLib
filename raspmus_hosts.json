@@ -6,8 +6,19 @@
       "ip": "192.168.20.105",
       "hasServer" : true,
       "hasMusic" : true,
-      "hasiAltar" : false,
-      "hasMusicPlayer" : true
+      "hasiAltar" : true,
+      "hasDisplay" : true,
+      "hasPhrase" : true,
+      "hasVoice" : true,
+      "displayType" : "Phrase",
+      "hasMusicPlayer" : true,
+      "hasiAltarPlayer" : true
+    },
+    {
+      "name": "raspmus 109",
+      "ip": "192.168.20.109",
+      "hasServer" : true,
+      "hasMusic" : true
     },
     {
       "name": "raspmus 110",
@@ -22,10 +33,12 @@
       "hasMusic" : true
     },
     {
-      "name": "raspmus 109",
-      "ip": "192.168.20.109",
+      "name": "raspmus 114",
+      "ip": "192.168.20.114",
+      "hasiAltar" : true,
       "hasServer" : true,
-      "hasMusic" : true
+      "hasDisplay" : true,
+      "displayType" : "Image"
     }
   ]
 }
