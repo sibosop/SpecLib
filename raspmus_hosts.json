@@ -39,6 +39,14 @@
       "hasServer" : true,
       "hasDisplay" : true,
       "displayType" : "Image"
+    },
+    {
+      "name": "raspmus 115",
+      "ip": "192.168.20.115",
+      "hasiAltar" : true,
+      "hasServer" : true,
+      "hasDisplay" : true,
+      "displayType" : "Image"
     }
   ]
 }
