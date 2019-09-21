@@ -21,13 +21,13 @@
 		"voice",
 		"watchdog",
 		"words",
-    "hosts",
     "musicPlayer",
     "soundFile",
     "soundTrack",
     "soundUtils"
 	],
   "noDebug" : [
+    "hosts"
 	],
   "voiceMaxVol" : 0.5,
   "musicLoop" : true
