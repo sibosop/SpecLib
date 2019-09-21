@@ -20,15 +20,14 @@
 		"utils",
 		"voice",
 		"watchdog",
-		"words"
-	],
-  "noDebug" : [
+		"words",
     "hosts",
     "musicPlayer",
     "soundFile",
     "soundTrack",
     "soundUtils"
-		
+	],
+  "noDebug" : [
 	],
   "voiceMaxVol" : 0.5,
   "musicLoop" : true
