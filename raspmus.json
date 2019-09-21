@@ -30,5 +30,6 @@
     "soundUtils"
 		
 	],
+  "voiceMaxVol" : 0.5,
   "musicLoop" : true
 }
