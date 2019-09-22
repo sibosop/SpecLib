@@ -24,10 +24,12 @@
     "musicPlayer",
     "soundFile",
     "soundTrack",
-    "soundUtils"
+    "soundUtils",
+    "donotdelete"
 	],
   "noDebug" : [
-    "hosts"
+    "hosts",
+    "donotdelete"
 	],
   "voiceMaxVol" : 0.5,
   "musicLoop" : true
