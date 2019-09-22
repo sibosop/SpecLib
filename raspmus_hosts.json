@@ -54,7 +54,7 @@
       "hasiAltar" : true,
       "hasServer" : true,
       "hasDisplay" : true,
-      "displayType" : "Image"
+      "displayType" : "Image",
       "hasPhrase" : true,
       "hasVoice" : true
     }
