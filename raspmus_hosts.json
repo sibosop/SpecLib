@@ -55,6 +55,8 @@
       "hasServer" : true,
       "hasDisplay" : true,
       "displayType" : "Image"
+      "hasPhrase" : true,
+      "hasVoice" : true
     }
   ]
 }
