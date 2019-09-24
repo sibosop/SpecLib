@@ -3,18 +3,18 @@
 	"debug": [
 		"__main__",
 		"archive",
+    "donotdelete"
+	],
+  "noDebug" : [
 		"asoundConfig",
 		"display",
 		"displayHandler",
 		"googleSearch",
 		"iAltarPlayer",
 		"midiHandler",
-		
 		"phraseHandler",
 		"server",
 		"shutdown",
-		
-		
 		"textSpeaker",
 		"upgrade",
 		"utils",
@@ -25,9 +25,6 @@
     "soundFile",
     "soundTrack",
     "soundUtils",
-    "donotdelete"
-	],
-  "noDebug" : [
     "hosts",
     "donotdelete"
 	],
