@@ -3,6 +3,9 @@
 	"debug": [
 		"__main__",
 		"archive",
+		"phraseHandler",
+		"iAltarPlayer",
+    "panel",
     "donotdelete"
 	],
   "noDebug" : [
@@ -10,9 +13,7 @@
 		"display",
 		"displayHandler",
 		"googleSearch",
-		"iAltarPlayer",
 		"midiHandler",
-		"phraseHandler",
 		"server",
 		"shutdown",
 		"textSpeaker",

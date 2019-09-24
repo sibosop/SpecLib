@@ -8,6 +8,8 @@
       "hasiAltar" : true,
       "hasDisplay" : true,
       "displayType" : "Image",
+      "hasPhrase" : true,
+      "hasPanel" : true,
       "hasiAltarPlayer" : true
     },
     {

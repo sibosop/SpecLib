@@ -9,6 +9,7 @@
     "hasDisplay": false,
     "displayType" : "None",
     "hasPhrase" : false,
+    "hasPanel" : false,
     "hasMusic" : false,
     "hasPowerCheck" : false,
     "hasMusicPlayer" : false,
