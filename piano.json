@@ -1,0 +1,36 @@
+{
+	"include": ["defaults","host_defaults", "piano_hosts"],
+	"debug": [
+		"__main__",
+		"archive",
+		"asoundConfig",
+		"display",
+		"displayHandler",
+		"googleSearch",
+		"iAltarPlayer",
+		"midiHandler",
+		
+		"phraseHandler",
+		"server",
+		"shutdown",
+		
+		
+		"textSpeaker",
+		"upgrade",
+		"utils",
+		"voice",
+		"watchdog",
+		"words",
+    "musicPlayer",
+    "soundFile",
+    "soundTrack",
+    "soundUtils",
+    "donotdelete"
+	],
+  "noDebug" : [
+    "hosts",
+    "donotdelete"
+	],
+  "voiceMaxVol" : 0.5,
+  "musicLoop" : true
+}
