@@ -1,5 +1,5 @@
 {
-  "subnet" : "192.168.1",
+  "subnet" : "192.168.50",
   "hosts" : [
     {
       "name": "mac",
@@ -7,7 +7,7 @@
     },
     {
       "name": "raspmus master",
-      "ip": "192.168.1.118",
+      "ip": "192.168.50.100",
       "hasServer" : true,
       "hasiAltar" : true,
       "hasDisplay" : true,
@@ -17,16 +17,16 @@
       "hasiAltarPlayer" : true
     },
     {
-      "name": "raspmus 117",
-      "ip": "192.168.1.117",
+      "name": "raspmus 101",
+      "ip": "192.168.50.101",
       "hasServer" : true,
       "hasiAltar" : true,
       "hasDisplay" : true,
       "displayType" : "Image"
     },
     {
-      "name": "raspmus 119",
-      "ip": "192.168.1.119",
+      "name": "raspmus 102",
+      "ip": "192.168.50.102",
       "hasServer" : true,
       "hasiAltar" : true,
       "hasDisplay" : true,
