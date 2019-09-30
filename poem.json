@@ -1,0 +1,9 @@
+{
+  "include" : ["defaults"],
+  "debug" : ["__main__"],
+  "fontSize" : 90,
+  "hostType" : "raspberry",
+  "minLineTime" : 4.0,
+  "nextTime" : 4.0,
+  "noHosts" : true
+}
