@@ -11,6 +11,7 @@
       "hasPhrase" : true,
       "hasVoice" : true,
       "displayType" : "Phrase",
+      "fontSize" : 200,
       "hasMusicPlayer" : true,
       "hasiAltarPlayer" : true
     },
