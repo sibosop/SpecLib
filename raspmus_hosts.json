@@ -46,6 +46,12 @@
       "hasMusic" : true
     },
     {
+      "name": "raspmus 108",
+      "ip": "192.168.20.108",
+      "hasServer" : true,
+      "hasMusic" : true
+    },
+    {
       "name": "raspmus 109",
       "ip": "192.168.20.109",
       "hasServer" : true,
