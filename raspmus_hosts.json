@@ -2,6 +2,12 @@
   "subnet" : "192.168.20",
   "hosts" : [
     {
+      "name": "raspmus 101",
+      "ip": "192.168.20.101",
+      "hasServer" : true,
+      "hasMusic" : true
+    },
+    {
       "name": "raspmus master",
       "ip": "192.168.20.105",
       "hasServer" : true,
