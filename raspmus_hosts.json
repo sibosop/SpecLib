@@ -16,6 +16,12 @@
       "hasiAltarPlayer" : true
     },
     {
+      "name": "raspmus 106",
+      "ip": "192.168.20.106",
+      "hasServer" : true,
+      "hasMusic" : true
+    },
+    {
       "name": "raspmus 107",
       "ip": "192.168.20.107",
       "hasServer" : true,
