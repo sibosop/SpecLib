@@ -58,12 +58,6 @@
       "hasMusic" : true
     },
     {
-      "name": "raspmus 113",
-      "ip": "192.168.20.113",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
       "name": "raspmus 114",
       "ip": "192.168.20.114",
       "hasiAltar" : true,
@@ -88,6 +82,12 @@
       "displayType" : "Image",
       "hasPhrase" : true,
       "hasVoice" : false
+    },
+    {
+      "name": "raspmus 117",
+      "ip": "192.168.20.117",
+      "hasServer" : true,
+      "hasMusic" : true
     }
   ]
 }
