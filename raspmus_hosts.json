@@ -9,7 +9,7 @@
       "hasiAltar" : true,
       "hasDisplay" : true,
       "hasPhrase" : true,
-      "hasVoice" : true,
+      "hasVoice" : false,
       "displayType" : "Phrase",
       "fontSize" : 200,
       "hasMusicPlayer" : true,
@@ -63,7 +63,7 @@
       "hasDisplay" : true,
       "displayType" : "Image",
       "hasPhrase" : true,
-      "hasVoice" : true
+      "hasVoice" : false
     }
   ]
 }

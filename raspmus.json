@@ -32,5 +32,6 @@
     "donotdelete"
 	],
   "voiceMaxVol" : 0.5,
+  "masterVolume" : 10,
   "musicLoop" : true
 }
