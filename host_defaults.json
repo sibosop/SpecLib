@@ -15,6 +15,9 @@
     "hasMusicPlayer" : false,
     "hasiAltar" : false,
     "hasiAltarPlayer" : false,
-    "hasVoice" : false
+    "hasVoice" : false,
+    "midi" : {
+      "enabled" : false
+    }
   }
 }

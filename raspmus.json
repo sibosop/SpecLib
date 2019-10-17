@@ -1,5 +1,5 @@
 {
-	"include": ["defaults","host_defaults", "raspmus_hosts", "improvSounds"],
+	"include": ["defaults","host_defaults", "raspmus_hosts", "improvSounds","nano"],
 	"debug": [
 		"__main__",
 		"archive",
@@ -33,5 +33,6 @@
 	],
   "voiceMaxVol" : 0.5,
   "masterVolume" : 10,
+  "midiBackEnd" : "mido.backends.pygame",
   "musicLoop" : true
 }

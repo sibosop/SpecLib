@@ -1,111 +1,119 @@
 {
-  "subnet" : "192.168.20",
-  "hosts" : [
-    {
-      "name": "raspmus 100",
-      "ip": "192.168.20.100",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 101",
-      "ip": "192.168.20.101",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 103",
-      "ip": "192.168.20.103",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus master",
-      "ip": "192.168.20.105",
-      "hasServer" : true,
-      "hasMusic" : true,
-      "hasiAltar" : true,
-      "hasDisplay" : true,
-      "hasPhrase" : true,
-      "hasVoice" : false,
-      "displayType" : "Phrase",
-      "fontSize" : 200,
-      "hasMusicPlayer" : true,
-      "hasiAltarPlayer" : true
-    },
-    {
-      "name": "raspmus 106",
-      "ip": "192.168.20.106",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 107",
-      "ip": "192.168.20.107",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 108",
-      "ip": "192.168.20.108",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 109",
-      "ip": "192.168.20.109",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 110",
-      "ip": "192.168.20.110",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 112",
-      "ip": "192.168.20.112",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 113",
-      "ip": "192.168.20.113",
-      "hasServer" : true,
-      "hasMusic" : true
-    },
-    {
-      "name": "raspmus 114",
-      "ip": "192.168.20.114",
-      "hasiAltar" : true,
-      "hasServer" : true,
-      "hasDisplay" : true,
-      "displayType" : "Image"
-    },
-    {
-      "name": "raspmus 115",
-      "ip": "192.168.20.115",
-      "hasiAltar" : true,
-      "hasServer" : true,
-      "hasDisplay" : true,
-      "displayType" : "Image"
-    },
-    {
-      "name": "raspmus 116",
-      "ip": "192.168.20.116",
-      "hasiAltar" : true,
-      "hasServer" : true,
-      "hasDisplay" : true,
-      "displayType" : "Image",
-      "hasPhrase" : true,
-      "hasVoice" : false
-    },
-    {
-      "name": "raspmus 117",
-      "ip": "192.168.20.117",
-      "hasServer" : true,
-      "hasMusic" : true
-    }
-  ]
+	"subnet": "192.168.20",
+	"hosts": [{
+			"name": "raspmus 100",
+			"ip": "192.168.20.100",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 101",
+			"ip": "192.168.20.101",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 103",
+			"ip": "192.168.20.103",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus master",
+			"ip": "192.168.20.105",
+			"hasServer": true,
+			"hasMusic": true,
+			"hasiAltar": true,
+			"hasDisplay": true,
+			"hasPhrase": true,
+			"hasVoice": false,
+			"displayType": "Phrase",
+			"fontSize": 200,
+			"hasMusicPlayer": true,
+			"hasiAltarPlayer": true,
+      "midi": {
+				"enabled": true,
+				"backend": "mido.backends.pygame",
+				"devices": [{
+					"id": "nano",
+					"inPort": "nanoKONTROL2 MIDI 1",
+					"outPort": ""
+				}]
+			}
+		},
+		{
+			"name": "raspmus 106",
+			"ip": "192.168.20.106",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 107",
+			"ip": "192.168.20.107",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 108",
+			"ip": "192.168.20.108",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 109",
+			"ip": "192.168.20.109",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 110",
+			"ip": "192.168.20.110",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 112",
+			"ip": "192.168.20.112",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 113",
+			"ip": "192.168.20.113",
+			"hasServer": true,
+			"hasMusic": true
+		},
+		{
+			"name": "raspmus 114",
+			"ip": "192.168.20.114",
+			"hasiAltar": true,
+			"hasServer": true,
+			"hasDisplay": true,
+			"displayType": "Image"
+		},
+		{
+			"name": "raspmus 115",
+			"ip": "192.168.20.115",
+			"hasiAltar": true,
+			"hasServer": true,
+			"hasDisplay": true,
+			"displayType": "Image"
+		},
+		{
+			"name": "raspmus 116",
+			"ip": "192.168.20.116",
+			"hasiAltar": true,
+			"hasServer": true,
+			"hasDisplay": true,
+			"displayType": "Image",
+			"hasPhrase": true,
+			"hasVoice": false
+		},
+		{
+			"name": "raspmus 117",
+			"ip": "192.168.20.117",
+			"hasServer": true,
+			"hasMusic": true
+		}
+	]
 }
