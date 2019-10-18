@@ -45,7 +45,8 @@
       {"name" : "gen1__joy.wav"}
       ,{"name" : "viol__joy.wav" }	  
       ]  
-  ,"collections" : [
+  ,"collections" : [ "playerCollection", "midiCollection" ]
+  ,"playerCollection" : [
     {
       "name" : "openList"
       ,"time" : 120
@@ -65,6 +66,12 @@
       "name" : "Close"
       ,"time" : 120
       ,"list" : "closeList"
+    }
+  ]
+  ,"midiCollection" : [
+    {
+      "name" : "midiJust"
+      ,"list" : "justList"
     }
   ]
 }
