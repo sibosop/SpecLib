@@ -32,7 +32,7 @@
     "donotdelete"
 	],
   "voiceMaxVol" : 0.5,
-  "masterVolume" : 10,
+  "masterVolume" : 70,
   "midiBackEnd" : "mido.backends.pygame",
   "musicLoop" : true
 }
