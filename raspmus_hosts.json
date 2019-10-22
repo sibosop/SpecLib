@@ -25,6 +25,7 @@
 			"hasMusic": true,
 			"hasiAltar": true,
 			"hasDisplay": true,
+      "hasMusicPlayer" : true,
 			"hasPhrase": true,
 			"hasVoice": false,
 			"displayType": "Phrase",
