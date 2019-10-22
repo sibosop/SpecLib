@@ -29,7 +29,6 @@
 			"hasVoice": false,
 			"displayType": "Phrase",
 			"fontSize": 200,
-			"hasMusicPlayer": true,
 			"hasiAltarPlayer": true,
       "midi": {
 				"enabled": true,
