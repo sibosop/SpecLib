@@ -18,6 +18,7 @@
     "hasVoice" : false,
     "midi" : {
       "enabled" : false
-    }
+    },
+    "nanoId" : -1
   }
 }

@@ -3,24 +3,28 @@
 	"hosts": [{
 			"name": "raspmus 100",
 			"ip": "192.168.20.100",
+      "nanoId" : 0,
 			"hasServer": true,
 			"hasMusic": true
 		},
 		{
 			"name": "raspmus 101",
 			"ip": "192.168.20.101",
+      "nanoId" : 1,
 			"hasServer": true,
 			"hasMusic": true
 		},
 		{
 			"name": "raspmus 103",
 			"ip": "192.168.20.103",
+      "nanoId" : 2,
 			"hasServer": true,
 			"hasMusic": true
 		},
 		{
 			"name": "raspmus master",
 			"ip": "192.168.20.105",
+      "nanoId" : 3,
 			"hasServer": true,
 			"hasMusic": true,
 			"hasiAltar": true,
@@ -44,24 +48,28 @@
 		{
 			"name": "raspmus 106",
 			"ip": "192.168.20.106",
+      "nanoId" : 4,
 			"hasServer": true,
 			"hasMusic": true
 		},
 		{
 			"name": "raspmus 107",
 			"ip": "192.168.20.107",
+      "nanoId" : 5,
 			"hasServer": true,
 			"hasMusic": true
 		},
 		{
 			"name": "raspmus 108",
 			"ip": "192.168.20.108",
+      "nanoId" : 6,
 			"hasServer": true,
 			"hasMusic": true
 		},
 		{
 			"name": "raspmus 109",
 			"ip": "192.168.20.109",
+      "nanoId" : 7,
 			"hasServer": true,
 			"hasMusic": true
 		},
