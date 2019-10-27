@@ -41,7 +41,7 @@
 				"devices": [{
 					"id": "nano",
 					"inPort": "nanoKONTROL2 MIDI 1",
-					"outPort": ""
+					"outPort": "nanoKONTROL2 MIDI 1"
 				}]
 			}
 		},
