@@ -6,16 +6,19 @@
     "hostType" : "raspberry",
     "hasServer" : false,
     "fontSize" : 90,
-    "hasDisplay": false,
-    "displayType" : "None",
-    "hasPhrase" : false,
-    "hasPanel" : false,
-    "hasMusic" : false,
+    "iAltar" : {
+      "enabled" : false
+    },
+    "phrase" : {
+      "enabled" : false
+    },
+		"recog" : {
+		  "enabled" : false
+    },
+    "music" : {
+      "enabled" : false
+    },
     "hasPowerCheck" : false,
-    "hasMusicPlayer" : false,
-    "hasiAltar" : false,
-    "hasiAltarPlayer" : false,
-    "hasVoice" : false,
     "midi" : {
       "enabled" : false
     },

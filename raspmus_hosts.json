@@ -5,7 +5,9 @@
 			"ip": "192.168.20.100",
       "nanoId" : 0,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus 101",
@@ -19,22 +21,31 @@
 			"ip": "192.168.20.103",
       "nanoId" : 2,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus master",
 			"ip": "192.168.20.105",
       "nanoId" : 3,
+      "phrase" : {
+        "image" : true,
+        "voice" : false,
+        "panel" : false
+      },
 			"hasServer": true,
-			"hasMusic": true,
-			"hasiAltar": true,
-			"hasDisplay": true,
-      "hasMusicPlayer" : true,
-			"hasPhrase": true,
-			"hasVoice": false,
-			"displayType": "Phrase",
+			"music": {
+			  "enabled" : true,
+        "player" : true
+			},
+      "iAltar" : {
+        "enabled" : true,
+        "player" : true,
+        "image" : false,
+        "phrase" : true
+      },
 			"fontSize": 200,
-			"hasiAltarPlayer": true,
       "midi": {
 				"enabled": true,
 				"backend": "mido.backends.pygame",
@@ -50,72 +61,105 @@
 			"ip": "192.168.20.106",
       "nanoId" : 4,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus 107",
 			"ip": "192.168.20.107",
       "nanoId" : 5,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus 108",
 			"ip": "192.168.20.108",
       "nanoId" : 6,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus 109",
 			"ip": "192.168.20.109",
       "nanoId" : 7,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus 110",
 			"ip": "192.168.20.110",
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		},
 		{
 			"name": "raspmus 112",
 			"ip": "192.168.20.112",
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
+		},
+		{
+			"name": "raspmus 113",
+			"ip": "192.168.20.113",
+			"hasServer": true,
+			"recog" : {
+			  "enabled" : true,
+        "phrase" : false,
+        "engine" : true,
+        "chokeTime" : 0,
+        "listMax" : 10
+      }
 		},
 		{
 			"name": "raspmus 114",
 			"ip": "192.168.20.114",
-			"hasiAltar": true,
-			"hasServer": true,
-			"hasDisplay": true,
-			"displayType": "Image"
+      "iAltar" : {
+        "enabled" : true,
+        "player" : false,
+        "image" : true,
+        "phrase" : false
+      },
+			"hasServer": true
 		},
 		{
 			"name": "raspmus 115",
 			"ip": "192.168.20.115",
-			"hasiAltar": true,
-			"hasServer": true,
-			"hasDisplay": true,
-			"displayType": "Image"
+      "iAltar" : {
+        "enabled" : true,
+        "player" : false,
+        "image" : true,
+        "phrase" : false
+      },
+			"hasServer": true
 		},
 		{
 			"name": "raspmus 116",
 			"ip": "192.168.20.116",
-			"hasiAltar": true,
-			"hasServer": true,
-			"hasDisplay": true,
-			"displayType": "Image",
-			"hasPhrase": true,
-			"hasVoice": false
+      "iAltar" : {
+        "enabled" : true,
+        "player" : false,
+        "image" : true,
+        "phrase" : false
+      },
+			"hasServer": true
 		},
 		{
 			"name": "raspmus 117",
 			"ip": "192.168.20.117",
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true
+			}
 		}
 	]
 }
