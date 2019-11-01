@@ -6,7 +6,8 @@
       "nanoId" : 0,
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -14,7 +15,10 @@
 			"ip": "192.168.20.101",
       "nanoId" : 1,
 			"hasServer": true,
-			"hasMusic": true
+			"music": {
+			  "enabled" : true,
+        "player" : false
+			}
 		},
 		{
 			"name": "raspmus 103",
@@ -22,7 +26,8 @@
       "nanoId" : 2,
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -30,8 +35,9 @@
 			"ip": "192.168.20.105",
       "nanoId" : 3,
       "phrase" : {
+        "enabled" : true,
         "image" : true,
-        "voice" : false,
+        "voice" : true,
         "panel" : false
       },
 			"hasServer": true,
@@ -61,8 +67,15 @@
 			"ip": "192.168.20.106",
       "nanoId" : 4,
 			"hasServer": true,
+      "phrase" : {
+        "enabled" : true,
+        "image" : false,
+        "voice" : true,
+        "panel" : false
+      },
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -71,7 +84,8 @@
       "nanoId" : 5,
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -80,7 +94,8 @@
       "nanoId" : 6,
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -89,7 +104,8 @@
       "nanoId" : 7,
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -97,7 +113,8 @@
 			"ip": "192.168.20.110",
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		},
 		{
@@ -105,8 +122,21 @@
 			"ip": "192.168.20.112",
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
-			}
+			  "enabled" : true,
+        "player" : false
+			},
+      "iAltar" : {
+        "enabled" : false,
+        "player" : false,
+        "image" : true,
+        "phrase" : true
+      },
+      "phrase" : {
+        "enabled" : true,
+        "image" : false,
+        "voice" : true,
+        "panel" : false
+      }
 		},
 		{
 			"name": "raspmus 113",
@@ -158,7 +188,8 @@
 			"ip": "192.168.20.117",
 			"hasServer": true,
 			"music": {
-			  "enabled" : true
+			  "enabled" : true,
+        "player" : false
 			}
 		}
 	]
