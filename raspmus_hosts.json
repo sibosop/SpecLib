@@ -67,6 +67,7 @@
 			"ip": "192.168.20.106",
       "nanoId" : 4,
 			"hasServer": true,
+      
       "phrase" : {
         "enabled" : true,
         "image" : false,
@@ -126,7 +127,7 @@
         "player" : false
 			},
       "iAltar" : {
-        "enabled" : false,
+        "enabled" : true,
         "player" : false,
         "image" : true,
         "phrase" : true
