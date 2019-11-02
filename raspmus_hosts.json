@@ -126,12 +126,6 @@
 			  "enabled" : true,
         "player" : false
 			},
-      "iAltar" : {
-        "enabled" : true,
-        "player" : false,
-        "image" : true,
-        "phrase" : true
-      },
       "phrase" : {
         "enabled" : true,
         "image" : false,
