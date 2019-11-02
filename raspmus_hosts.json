@@ -126,10 +126,15 @@
 			  "enabled" : true,
         "player" : false
 			},
+      "recog" : {
+        "enabled" : true,
+        "engine" : false,
+        "phrase" : true
+      },
       "phrase" : {
         "enabled" : true,
-        "image" : false,
-        "voice" : true,
+        "image" : true,
+        "voice" : false,
         "panel" : false
       }
 		},
@@ -142,7 +147,9 @@
         "phrase" : false,
         "engine" : true,
         "chokeTime" : 0,
-        "listMax" : 10
+        "listMax" : 10,
+        "chooseLen" : 4,
+        "chooseSize" : 4
       }
 		},
 		{

@@ -15,7 +15,7 @@
     "recorder",
     "recog",
     "recogAnalyzer",
-    "recogOutput",
+    "recogHandler",
 		"server",
 		"shutdown",
 		"textSpeaker",
