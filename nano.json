@@ -1,6 +1,7 @@
 {
   "NanoComment" : "Definition of a controller with tag names and the controller number range",
 	"nano": {
+    "soundLists" : ["justList"],
     "controls" : {
   		"slider": [0, 7],
   		"pot": [16, 23],
