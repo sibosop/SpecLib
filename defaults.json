@@ -5,6 +5,7 @@
   "defaultSearchType" : "Archive",
   "defaultSoundDir" : "/media/pi/SOUND/events",
   "debug" : [],
+  "doArchive" : false,
   "displayTimeRange" : [3,8],
   "fontFile" : "Watchword_bold_demo.otf",
   "fontSize" : 90,
