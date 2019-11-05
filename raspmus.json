@@ -5,15 +5,15 @@
     "analyzer",
 		"archive",
 		"asoundConfig",
-		"display",
+		
 		"displayHandler",
 		"googleSearch",
 		"iAltarPlayer",
 		"midiHandler",
     "nanoPlayer",
 		"phraseHandler",
-    "recorder",
-    "recog",
+    
+    
     "recogAnalyzer",
     "recogHandler",
 		"server",
@@ -31,7 +31,12 @@
     "donotdelete"
 	],
   "noDebug" : [
+    "display",
     "hosts",
+    "recorder",
+    "recog",
+    
+    
     "donotdelete"
 	],
   "voiceMaxVol" : 0.5,

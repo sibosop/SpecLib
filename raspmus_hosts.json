@@ -104,6 +104,18 @@
 			"ip": "192.168.20.109",
       "nanoId" : 7,
 			"hasServer": true,
+      "recog" : {
+        "enabled" : true,
+        "engine" : false,
+        "phrase" : "final",
+        "final" : false
+      },
+      "phrase" : {
+        "enabled" : true,
+        "image" : true,
+        "voice" : false,
+        "panel" : false
+      },
 			"music": {
 			  "enabled" : true,
         "player" : false
@@ -129,7 +141,8 @@
       "recog" : {
         "enabled" : true,
         "engine" : false,
-        "phrase" : true
+        "phrase" : "search",
+        "final" : false
       },
       "phrase" : {
         "enabled" : true,
@@ -144,7 +157,7 @@
 			"hasServer": true,
 			"recog" : {
 			  "enabled" : true,
-        "phrase" : false,
+        "phrase" : "",
         "engine" : true,
         "chokeTime" : 0,
         "listMax" : 10,
