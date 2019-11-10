@@ -147,7 +147,7 @@
       "phrase" : {
         "enabled" : true,
         "image" : true,
-        "voice" : true,
+        "voice" : false,
         "panel" : false
       }
 		},
