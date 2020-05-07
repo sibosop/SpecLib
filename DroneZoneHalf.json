@@ -1,5 +1,12 @@
 { 
-  "type" : "async"
+  
+  "rootDir" : "/Users/brian/sibosopLocal/music/Music20161008/Clips/schlubFull"
+  ,"type" : "async"
+	,"debug": [
+		"__main__",
+    "gardenTrack",
+    "donotdelete"
+	]
   ,"tunings" : {
       "jpent" : ["1/1","32/27","4/3","3/2","16/9"]
       ,"bfarabi" : ["1/1","9/8","45/32","131/90","3/2","15/8","31/16"]
