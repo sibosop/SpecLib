@@ -1,6 +1,6 @@
 {
   "include" : ["gardenCommon","ArcadiaList","tunings"]
-  ,"rootDir" : "/Users/brian/sibosopLocal/music/Music2020/Sounds/arcadia"
+  ,"rootDir" : "/Users/brian/sibosopLocal/music/Music2020/Arcadia"
 	,"debug": [
 		"__main__"
     ,"gardenTrack"

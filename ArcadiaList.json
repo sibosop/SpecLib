@@ -1,5 +1,13 @@
 {
-  "Intro" : [
+  "collections" : ["Arcadia"]
+  ,"Arcadia" : [
+    {
+      "name" : "ArcadiaIntro"
+      ,"time" : 60
+      ,"list" : "Intro" 
+    }
+  ]
+  ,"Intro" : [
       {"name" : "tap1.wav", "tuning" : "sheng", "olist" : []}
     ]
 }
