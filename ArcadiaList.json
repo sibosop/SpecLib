@@ -8,6 +8,6 @@
     }
   ]
   ,"Intro" : [
-      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : []}
+      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4]}
     ]
 }

@@ -11,4 +11,5 @@
   ,"speedChangeMin" : 0.25
   ,"eventMin" : 100
   ,"eventMax" : 10000
+  ,"octaves" :[0.25,0.5,1.0,2.0,4.0]
 }
