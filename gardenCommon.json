@@ -4,6 +4,8 @@
   ,"numThreads" : 8
   ,"minChange" : 5
   ,"maxChange" : 15
+  ,"minStart" : 0.5
+  ,"maxStart" : 1.0
   ,"maxEvents" : 2
   ,"soundMaxVol" : 0.3
   ,"soundMinVol" : 0.1

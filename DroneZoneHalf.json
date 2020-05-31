@@ -1,6 +1,7 @@
 { 
   
   "rootDir" : "/Users/brian/sibosopLocal/music/Music20161008/Clips/schlubFull"
+  ,"octaves" :[0.25,0.5,1.0,2.0,4.0]
   ,"type" : "async"
 	,"debug": [
 		"__main__",
@@ -21,6 +22,8 @@
   ,"soundMinVol" : 0.1
   ,"speedChangeMax" : 4.0
   ,"speedChangeMin" : 0.25
+  ,"minStart" : 0.5
+  ,"maxStart" : 1.0
   ,"eventMin" : 100
   ,"eventMax" : 10000
   ,"waitQuant" : 0.01

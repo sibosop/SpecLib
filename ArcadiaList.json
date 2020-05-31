@@ -2,12 +2,22 @@
   "collections" : ["Arcadia"]
   ,"Arcadia" : [
     {
-      "name" : "ArcadiaIntro"
+      "name" : "ArcadiaIntro1"
+      ,"time" : 30
+      ,"list" : "Intro1" 
+    }
+    ,{
+      "name" : "ArcadiaIntro2"
       ,"time" : 60
-      ,"list" : "Intro" 
+      ,"list" : "Intro2" 
     }
   ]
-  ,"Intro" : [
-      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4]}
+  ,"Intro1" : [
+      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4],"plist" : [2,4]}
+      ,{"name" : "silence.wav"}
+    ]
+  ,"Intro2" : [
+      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4],"plist" : [2,4]}
+      ,{"name" : "mock1.wav", "tuning" : "sheng", "olist" : [0,1,2,3]}
     ]
 }
