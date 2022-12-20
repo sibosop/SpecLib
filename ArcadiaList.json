@@ -13,11 +13,11 @@
     }
   ]
   ,"Intro1" : [
-      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4],"plist" : [2,4]}
+      {"name" : "pianostretch1.wav", "tuning" : "sheng", "olist" : [1,2],"rlist" : [0,4],"plist" : [4,8]}
       ,{"name" : "silence.wav"}
     ]
   ,"Intro2" : [
-      {"name" : "tap1.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4],"plist" : [2,4]}
-      ,{"name" : "mock1.wav", "tuning" : "sheng", "olist" : [0,1,2,3]}
+      {"name" : "2tap.wav", "tuning" : "sheng", "olist" : [0],"rlist" : [0,4],"plist" : [2]}
+      ,{"name" : "pianostretch1.wav", "tuning" : "sheng", "olist" : [1, 2],"rlist" : [0,4],"plist" : [4,8]}
     ]
 }

@@ -1,0 +1,14 @@
+{
+  "collections" : ["Arcadia"]
+  ,"Arcadia" : [
+    {
+      "name" : "ArcadiaIntro1"
+      ,"time" : 30
+      ,"list" : "Intro1" 
+    }
+  ]
+  ,"Intro1" : [
+      {"name" : "pianostretch1.wav", "tuning" : "sheng"}
+      ,{"name" : "piano1.wav", "tuning" : "sheng","olist" : [2,3],"plist" : [2,4]}
+    ]
+}
